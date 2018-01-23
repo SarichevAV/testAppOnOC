@@ -1,3 +1,3 @@
-# testAppOnOC
-Test web application
-Deploy on Open Shift
+# Test web application
+# Deploy on Open Shift
+
