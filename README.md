@@ -1,3 +1,3 @@
 # Test web application
-# Deploy on Open Shift
+Deploy on Open Shift
 
